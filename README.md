@@ -1,0 +1,1 @@
+# SQL-Practice-LeetCode-Medium-Least5DirectReports
